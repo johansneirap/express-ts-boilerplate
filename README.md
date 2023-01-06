@@ -6,4 +6,10 @@ This scaffold allows you to start coding instantaneous, forget about thinking ab
 
 - TypeScript
 - Express
-  ... more incoming
+- ESLint
+- Prettier
+
+### Recommended extensions for VS Code:
+
+- ESLint
+- Prettier
