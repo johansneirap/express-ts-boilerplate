@@ -8,6 +8,7 @@ This scaffold allows you to start coding instantaneous, forget about thinking ab
 - Node + Express
 - ESLint
 - Prettier
+- Lint staged
 
 ### Recommended extensions for VS Code:
 
