@@ -9,6 +9,7 @@ This scaffold allows you to start coding instantaneous, forget about thinking ab
 - ESLint
 - Prettier
 - Lint staged
+- Husky
 
 ### Recommended extensions for VS Code:
 
