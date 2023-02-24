@@ -1,6 +1,6 @@
 # Express + Typescript Rest server
 
-## Start coding instant...
+Start coding asap...
 
 This scaffold allows you to start coding instantaneous, forget about thinking about configurations or settings. Includes a basic folder structure following MVC, and some others tools like:
 
@@ -11,12 +11,12 @@ This scaffold allows you to start coding instantaneous, forget about thinking ab
 - Lint staged
 - Husky
 
-### Recommended extensions for VS Code:
+## Recommended extensions for VS Code:
 
 - ESLint
 - Prettier
 
-### Additional libraries used
+## Additional libraries used
 
 - cors
 - dotenv
